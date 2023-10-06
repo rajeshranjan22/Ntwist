@@ -1,0 +1,20 @@
+.dropdown-menu {
+  position: absolute;
+  top: 7.8vh;
+  background-color: white;
+  color: #476783;
+  padding: 1rem;
+  width: 17vw;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  /* height: 5vh; */
+}
+
+.li-element {
+  padding: 0.5rem;
+  font-size: medium;
+  font-weight: 500;
+  text-decoration: none;
+  color: black;
+}
